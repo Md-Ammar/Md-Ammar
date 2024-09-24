@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **ADHD-Diagnosing-ADHD-With-ConvLSTM**
 
-- 🌱 I’m currently learning **Unity with C#.**
+- 🌱 I’m currently learning **Programming in Rust**
 
 - 💬 Ask me about **python, machine learning, web scraping, data analysis.**
 
