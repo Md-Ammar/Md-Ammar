@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=md-ammar&label=Profile%20views&color=0e75b6&style=plastic" alt="md-ammar" /> </p>
 
-- 🔭 I’m currently working on **ADHD-Diagnosing-ADHD-With-ConvLSTM**
+- 🔭 I’m currently exploring **Generative AI and LLM's**
 
 - 🌱 I’m currently learning **Programming in Rust**
 
-- 💬 Ask me about **python, machine learning, web scraping, data analysis.**
+- 💬 Ask me about **Python, Machine Learning, Web Scraping, Data analysis, Automation, API's.**
 
 - 📫 How to reach me **ammaratif559@gmail.com**
 
