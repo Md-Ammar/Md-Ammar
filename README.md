@@ -2,7 +2,7 @@
   
 <span style="display:block;text-align:center">
 
-### [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+👋,+I+am+Mohammad+Ammar;Welcome+To+My+Github+Profile)](https://git.io/typing-svg)
+### [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+👋,+I+am+Mohammad+Ammar.;Welcome+To+My+Github+Profile.)](https://git.io/typing-svg)
 
 </span>
 
