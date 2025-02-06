@@ -1,3 +1,12 @@
+### [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+am+Md+Ammar;Welcome+To+My+Github+Profile)](https://git.io/typing-svg)
+
+</span>
+
+<span style="display:block;text-align:center">![Developer activity](https://user-images.githubusercontent.com/42722816/90060765-7febc200-dce5-11ea-938b-75d2a7816ca3.gif)</span>
+
+
+</div>
+
 <h1 align="center">Hi 👋, I'm Mohammad Ammar</h1>
 <h3 align="center">A pre-final year B.Tech student and an avid programmer in Python.</h3>
 
